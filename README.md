@@ -1,5 +1,6 @@
 # Semantic Change Discovery
-This repository contains code &amp; data from the paper "Semantic Change Quantification Methods Struggle with Discovery in the Wild" published at EMNLP 2025. \[[camera-ready version](https://www.cs.cornell.edu/home/llee/papers/semantic-shift-discovery-emnlp25.pdf)\]
+This repository contains code &amp; data from the paper "Semantic Change Quantification Methods Struggle with Discovery in the Wild" published at EMNLP 2025. \[[paper](https://aclanthology.org/2025.emnlp-main.1791)\] \[[poster](https://github.com/khonzoda/semantic-change-discovery-emnlp2025-internal/blob/main/misc/poster.jpg)\] \[[slides](https://github.com/khonzoda/semantic-change-discovery-emnlp2025-internal/blob/main/misc/slides.pdf)\]
+
 
 
 ## Getting Started: requirements 
